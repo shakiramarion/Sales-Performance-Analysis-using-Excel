@@ -9,6 +9,18 @@ This project aims to analyze retail sales data to identify trends, understand cu
 ## Dataset Used
 - <a href="https://github.com/shakiramarion/Sales-Performance-Analysis-using-Excel/blob/main/retail_sales_dataset.xlsx"> Retail Sales Dataset </a>
 
+## Research Questions
+- What are the overall sales trends over time, and are there any seasonal patterns?
+- How do customer demographics (age, gender) influence purchasing behavior?
+- Which product categories generate the highest sales and revenue?
+- How can sales data be used to improve inventory management?
+- What insights can be leveraged to optimize pricing and marketing strategies?
+
+## Dashboard Interaction
+![Sales Performance Dashboard](https://github.com/user-attachments/assets/881001ee-a7a4-44be-91b5-013154ec20c4)
+
+## 
+
 
 
 
