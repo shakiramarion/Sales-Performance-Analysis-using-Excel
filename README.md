@@ -19,7 +19,8 @@ This project aims to analyze retail sales data to identify trends, understand cu
 ## Dashboard Interaction
 ![Sales Performance Dashboard](https://github.com/user-attachments/assets/881001ee-a7a4-44be-91b5-013154ec20c4)
 
-## 
+## Steps Followed
+
 
 
 
