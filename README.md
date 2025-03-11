@@ -7,7 +7,8 @@ Retail businesses often struggle to understand customer purchasing patterns, lea
 This project aims to analyze retail sales data to identify trends, understand customer purchasing behavior, evaluate product performance, and provide insights for optimizing inventory, pricing, and marketing strategies to enhance business decision-making.
 
 ## Dataset Used
-- <a href="
+- <a href="https://github.com/shakiramarion/Sales-Performance-Analysis-using-Excel/blob/main/retail_sales_dataset.xlsx"> Retail Sales Dataset </a>
+
 
 
 
