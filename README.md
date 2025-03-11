@@ -20,8 +20,25 @@ This project aims to analyze retail sales data to identify trends, understand cu
 ![Sales Performance Dashboard](https://github.com/user-attachments/assets/881001ee-a7a4-44be-91b5-013154ec20c4)
 
 ## Steps Followed
+- Load the data into Excel.
+- Cleaned the data by handling missing and null values and removing duplicates.
+- Performed Analysis.
+- Answered the Research Questions.
+- Performed Visualizations using Excel.
+- Prepared an interactive Excel Dashboard from the visualizations and included slicers with connections to the relevant visuals.
 
+## Project Insights
+- Electronics (159,605) and Clothing (155,580) generate the highest revenue, followed by Beauty (143,515). Electronics leads in total sales, indicating strong demand.
+- The gender distribution is nearly balanced, with Female customers (51%) slightly outspending Male customers (49%). Marketing strategies can be adjusted to appeal to both genders effectively.
+- Sales exhibit fluctuations, with peaks in certain months (e.g., April, August, and December 2023). The drop in January 2024 may indicate post-holiday seasonality.
+- Young Adults (145,420) and Adults (142,610) contribute the most to total sales.
+- Teenagers (26,085) and Old customers (44,815) have the lowest sales figures, suggesting a potential market gap.
 
+## Conclusions & Recommendations
+- Prioritize Electronics and Clothing products based on their high sales performance.
+- Focus on Young Adults and Adults as key buyers while exploring strategies to engage Teenagers and Seniors.
+- Boost marketing campaigns during high-sales months (e.g., April, August, December) and introduce strategies to mitigate post-holiday slumps.
+- Since the gender spending gap is small, balanced promotions targeting both men and women will be most effective.
 
 
 
